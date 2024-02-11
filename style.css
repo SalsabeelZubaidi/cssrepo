@@ -1,0 +1,52 @@
+.cont{
+    display: flex ;
+    justify-content:center;
+}
+
+
+.col1{
+    padding-top: 15px;
+    background-color: rgb(174, 211, 234);
+    height:100%;
+    margin: 30px;
+    padding-left: 15px;
+}
+
+
+.col2{
+    margin: 30px;
+    
+}
+
+.div4 h3{
+    margin-top: 30px;
+    margin-bottom:1px;
+}
+
+.div4 ul{
+    margin-top:0%;
+
+}
+
+.height{
+    min-height: 100vh;
+}
+
+hr{
+    border-color: black;
+    margin-top: 20px;
+}
+
+*{
+    font-family:serif;
+}
+
+.div5 h3{
+    margin-top: 30px;
+    margin-bottom: 1px;
+}
+
+.git{
+    margin:20px;
+
+}
